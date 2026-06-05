@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-This project is an end-to-end automated recruitment pipeline built using **Make (formerly Integromat)**. It monitors a designated email inbox for job applications, extracts résumé attachments, evaluates each candidate's qualifications using an AI model, and automatically records the match percentage into a **Google Spreadsheet** — all without any manual intervention.
+This project is an end-to-end automated recruitment pipeline built using **Make (formerly Integromat)**. It monitors a designated email inbox for job applications, extracts résumé attachments, evaluates each candidate's qualifications using an AI model, and automatically records the match percentage into a **Google Sheets spreadsheet** — all without any manual intervention.
 
 This eliminates the time-consuming task of manually reviewing each application, allowing recruiters to instantly see a ranked list of candidates based on their suitability for a specific role.
 
@@ -18,7 +18,7 @@ To automate the initial screening phase of the hiring process by combining email
 **Usage:**
 This automation is designed to be used by recruiters or hiring managers who receive job applications via email. Once the scenario is active in Make, it runs automatically in the background. Every new applicant email is processed, evaluated, and logged without any human input required.
 
-> **Target Job Role for This Demo:** Front-end Engineer (React, CSS)
+> **Target Job Role for This Demo:** Frontend Engineer (React, CSS)
 
 ---
 
@@ -43,19 +43,15 @@ This automation is designed to be used by recruiters or hiring managers who rece
 
 ### Section 1: Make Scenario Overview
 
-```
-![Make Scenario](project-1/images/make-scenario-overview.png)
-```
+![Make Scenario](images/make-scenario-overview.png)
 
 *This screenshot shows the complete automation flow built inside Make, from the email trigger all the way to the Google Sheets module.*
 
 ---
 
-### Section 2: Google Spreadsheet Output
+### Section 2: Google Sheets Output
 
-```
 ![Google Sheets Output](images/google-sheets-output.png)
-```
 
 *This screenshot shows the final output — the spreadsheet populated automatically with each candidate's name and their AI-evaluated match percentage.*
 
