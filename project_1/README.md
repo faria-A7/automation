@@ -44,7 +44,7 @@ This automation is designed to be used by recruiters or hiring managers who rece
 ### Section 1: Make Scenario Overview
 
 ```
-![Make Scenario](images/make-scenario-overview.png)
+![Make Scenario](project-1/images/make-scenario-overview.png)
 ```
 
 *This screenshot shows the complete automation flow built inside Make, from the email trigger all the way to the Google Sheets module.*
