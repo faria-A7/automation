@@ -43,8 +43,6 @@ This automation is designed to be used by recruiters or hiring managers who rece
 
 ### Section 1: Make Scenario Overview
 
-> 📷 *Add a screenshot of your full Make scenario/flow here.*
-
 ```
 ![Make Scenario](images/make-scenario-overview.png)
 ```
@@ -54,8 +52,6 @@ This automation is designed to be used by recruiters or hiring managers who rece
 ---
 
 ### Section 2: Google Spreadsheet Output
-
-> 📷 *Add a screenshot of your Google Spreadsheet with candidate names and percentages here.*
 
 ```
 ![Google Sheets Output](images/google-sheets-output.png)
